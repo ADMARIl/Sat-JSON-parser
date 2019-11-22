@@ -1,0 +1,11 @@
+C:\Users\aings\Documents\JSON parse test\Sat-JSON-parser\bin\Debug\netcoreapp3.0\Sat-JSON-parser.exe
+C:\Users\aings\Documents\JSON parse test\Sat-JSON-parser\bin\Debug\netcoreapp3.0\Sat-JSON-parser.deps.json
+C:\Users\aings\Documents\JSON parse test\Sat-JSON-parser\bin\Debug\netcoreapp3.0\Sat-JSON-parser.runtimeconfig.json
+C:\Users\aings\Documents\JSON parse test\Sat-JSON-parser\bin\Debug\netcoreapp3.0\Sat-JSON-parser.runtimeconfig.dev.json
+C:\Users\aings\Documents\JSON parse test\Sat-JSON-parser\bin\Debug\netcoreapp3.0\Sat-JSON-parser.dll
+C:\Users\aings\Documents\JSON parse test\Sat-JSON-parser\bin\Debug\netcoreapp3.0\Sat-JSON-parser.pdb
+C:\Users\aings\Documents\JSON parse test\Sat-JSON-parser\obj\Debug\netcoreapp3.0\Sat-JSON-parser.csprojAssemblyReference.cache
+C:\Users\aings\Documents\JSON parse test\Sat-JSON-parser\obj\Debug\netcoreapp3.0\Sat-JSON-parser.AssemblyInfoInputs.cache
+C:\Users\aings\Documents\JSON parse test\Sat-JSON-parser\obj\Debug\netcoreapp3.0\Sat-JSON-parser.AssemblyInfo.cs
+C:\Users\aings\Documents\JSON parse test\Sat-JSON-parser\obj\Debug\netcoreapp3.0\Sat-JSON-parser.dll
+C:\Users\aings\Documents\JSON parse test\Sat-JSON-parser\obj\Debug\netcoreapp3.0\Sat-JSON-parser.pdb
