@@ -11,9 +11,10 @@ namespace Sat_JSON_parser
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            ConvertFromJSON("CleanedData.json");
         }
 
-        public CelestialBody[] ConvertFromJSON(string filename) {
+        static CelestialBody[] ConvertFromJSON(string filename) {
         
            // Write something here to maybe convert the CleanedData.json file and
            //   export like an array/vector of satellite objects (class CelestialBody???)
