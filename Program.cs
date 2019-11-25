@@ -18,7 +18,7 @@ namespace Sat_JSON_parser
             Console.WriteLine("Bottom Text got that Bottom Text");
 
             // HELLO CHAS
-
+            // Hello Andre
            // Write something here to maybe convert the CleanedData.json file and
            //   export like an array/vector of satellite objects (class CelestialBody???)
 
