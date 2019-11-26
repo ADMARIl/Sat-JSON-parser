@@ -17,7 +17,16 @@ namespace Sat_JSON_parser
 
         static CelestialBody[] ConvertFromJSON(string filename)
         {
-            
+            // Write something here to maybe convert the CleanedData.json file and
+            //   export like an array/vector of satellite objects (class CelestialBody???)
+
+            /* 
+                TODO: Brendan requests "Can you guys write a Json parser for our data and make an array of
+                to roll with in the Unity envt?"
+            */
+            // I suspect the units for the Cleaned data is in feet
+
+            // create array for all the bodies
             CelestialBody[] bodies = new CelestialBody[501];
             int count = 0;
 
@@ -61,24 +70,8 @@ namespace Sat_JSON_parser
 
                 }
             }
-            // HELLO CHAS
-            // Hello Andre
-            // Write something here to maybe convert the CleanedData.json file and
-            //   export like an array/vector of satellite objects (class CelestialBody???)
 
-            /* 
-                TODO: Brendan requests "Can you guys write a Json parser for our data and make an array of
-                to roll with in the Unity envt?"
-            */
-            // I suspect the units for the Cleaned data is metric but I have no idea which one
-            // read in file to one big string
-            //string jsonString = ;
-
-            //var satIDs = JsonConvert.DeserializeObject<CelestialBody>(File.ReadAllText(filename));        
-            //bodies[0] = ;
             return bodies;
-            //GameObject temp = new GameObject();
-
         }
     }
 }
