@@ -4,7 +4,4 @@
     <TargetFramework>netcoreapp3.0</TargetFramework>
     <RootNamespace>Sat_JSON_parser</RootNamespace>
   </PropertyGroup>
-  <ItemGroup>
-    <PackageReference Include="Newtonsoft.Json" Version="12.0.3"/>
-  </ItemGroup>
 </Project>
