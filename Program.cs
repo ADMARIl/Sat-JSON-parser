@@ -5,17 +5,17 @@ using System.Windows;
 using Microsoft.VisualBasic.FileIO;
 using static CelestialBody;
 
-namespace Sat_JSON_parser
+namespace Sat_CSV_parser
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            ConvertFromJSON("CleanedData.csv");
+            Console.WriteLine("Converting from CSV!");
+            ConvertFromCSV("CleanedData.csv");
         }
 
-        static CelestialBody[] ConvertFromJSON(string filename)
+        static CelestialBody[] ConvertFromCSV(string filename)
         {
             // Write something here to maybe convert the CleanedData.json file and
             //   export like an array/vector of satellite objects (class CelestialBody???)
