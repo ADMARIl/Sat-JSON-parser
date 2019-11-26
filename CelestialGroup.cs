@@ -1,9 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
-//using System.Web.Serialization;
-// the goal here is to use json.net to make things easier
-// TODO: make sure this package works in unity
-using Newtonsoft.Json;
+
 //using UnityEngine;
 using static CelestialBody;
 
