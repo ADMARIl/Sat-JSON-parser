@@ -13,12 +13,12 @@ namespace Sat_JSON_parser
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            ConvertFromJSON("CleanedData.json");
+            ConvertFromJSON("CleanedData.csv");
         }
 
         static CelestialBody[] ConvertFromJSON(string filename)
         {
-            Console.WriteLine("Bottom Text got that Bottom Text");
+            
             CelestialBody[] bodies = new CelestialBody[501];
             int count = 0;
 
@@ -36,6 +36,7 @@ namespace Sat_JSON_parser
                     CelestialBody tempCB = new CelestialBody();
 
                     // Read current line fields, pointer moves to the next line.
+                    
                     string[] fields = csvParser.ReadFields();
                     Console.WriteLine(fields[0]);
                     string ID = fields[0];
@@ -58,10 +59,6 @@ namespace Sat_JSON_parser
 
                     bodies[count] = tempCB;
                     count++;
-
-
-
-
 
                 }
             }
