@@ -1,9 +1,11 @@
 # Sat-JSON-parser
-A C# project to parse the data from a ~~json~~ csv file containg data on many celestial bodies currently orbiting the earth.
+A C# project to parse the data from a ~~json~~ csv file containg data on many celestial bodies currently orbiting the earth. 
+
+**The decision to switch from a json to a csv data set was made mid-devlopment so naming inconsitencies may occur**
 
 Full project and readme can be found at [super-f6](https://github.com/bwitt19/super-f6)
 
-Working builds can be found in _master_, alongside other branches with ongoing feature development.
+Finished version releases will be stored in the _Releases_ tab of this repository. Working builds can be found in _master_, alongside other branches with ongoing feature development.
 
 Dataset is courtesy of [Emergent Space](https://www.emergentspace.com/)
 
